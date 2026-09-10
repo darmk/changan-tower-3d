@@ -1,0 +1,16 @@
+[
+ {"key":"overall","label":"全景","title":"七层浮屠 · 建筑全貌","position":[92,77,128],"target":[0,29,0]},
+ {"key":"front","label":"南立面","title":"南立面 · 九间起势","position":[0,33,155],"target":[0,30,0]},
+ {"key":"eaves","label":"砖砌檐口","title":"叠涩出檐 · 砖仿木构","position":[22,27,28],"target":[6,21.9,10.5]},
+ {"key":"stele","label":"南门碑龛","title":"南门碑龛 · 两通唐碑","position":[-10,8.9,22],"target":[-5.6,6.3,12.6]},
+ {"key":"east","label":"东立面","title":"东立面 · 层层收分","position":[155,33,0],"target":[0,30,0]},
+ {"key":"north","label":"北立面","title":"北立面 · 方正端凝","position":[0,33,-155],"target":[0,30,0]},
+ {"key":"west","label":"西立面","title":"西立面 · 砖石之间","position":[-155,33,0],"target":[0,30,0]},
+ {"key":"top","label":"俯视","title":"方形塔基 · 俯瞰全塔","position":[55,130,65],"target":[0,23,0]},
+ {"key":"portal","label":"首层入口","title":"石门框与砖券 · 首层入口","position":[5.8,9.2,25],"target":[0,6.3,12.5]},
+ {"key":"finial","label":"塔刹","title":"砖砌收顶 · 葫芦形塔刹","position":[12,64.5,15],"target":[0,59.5,0]},
+ {"key":"hall","label":"塔心室","title":"中央塔室 · 内部空间示意","position":[2.2,7.2,2.7],"target":[-1,8.5,-2.5],"interior":true},
+ {"key":"stairs","label":"木梯","title":"盘旋木梯 · 空间示意","position":[1.2,18.1,1.4],"target":[-2.5,20,-2.6],"interior":true},
+ {"key":"upper","label":"顶层塔室","title":"第七层 · 内部空间示意","position":[1.2,52.1,1.4],"target":[-1,53,-2.6],"interior":true},
+ {"key":"section","label":"结构剖视","title":"揭开南立面 · 内部空间示意","position":[35,49,116],"target":[0,29,0],"section":true}
+]

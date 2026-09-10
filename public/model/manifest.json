@@ -1,0 +1,27 @@
+{
+  "generatedAt": "2026-09-10T00:57:30.366Z",
+  "generator": "Blender 4.2 LTS + glTF-Transform",
+  "variants": {
+    "high": {
+      "file": "dayan-pagoda-hd.glb",
+      "bytes": 8980716,
+      "triangles": 198314,
+      "meshes": 105,
+      "textures": 14
+    },
+    "standard": {
+      "file": "dayan-pagoda.glb",
+      "bytes": 8335804,
+      "triangles": 197930,
+      "meshes": 105,
+      "textures": 14
+    },
+    "mobile": {
+      "file": "dayan-pagoda-mobile.glb",
+      "bytes": 7931352,
+      "triangles": 197930,
+      "meshes": 105,
+      "textures": 14
+    }
+  }
+}

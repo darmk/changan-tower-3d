@@ -1,0 +1,19 @@
+{
+  "name": "西安大雁塔",
+  "units": "metres",
+  "seed": 652,
+  "totalHeight": 64.7,
+  "platform": {"width": 45.7, "depth": 48.7, "height": 4.2},
+  "floors": [
+    {"level":1,"z":4.2,"height":10.4,"width":25.5,"taper":1.0,"bays":9,"inner":8.0,"doorWidth":2.05,"doorHeight":3.7},
+    {"level":2,"z":14.6,"height":8.5,"width":23.2,"taper":0.9,"bays":9,"inner":7.8,"doorWidth":1.8,"doorHeight":3.35},
+    {"level":3,"z":23.1,"height":7.6,"width":21.0,"taper":0.85,"bays":7,"inner":7.5,"doorWidth":1.65,"doorHeight":3.1},
+    {"level":4,"z":30.7,"height":7.0,"width":18.9,"taper":0.8,"bays":7,"inner":7.1,"doorWidth":1.6,"doorHeight":2.95},
+    {"level":5,"z":37.7,"height":6.5,"width":16.8,"taper":0.7,"bays":5,"inner":6.6,"doorWidth":1.5,"doorHeight":2.8},
+    {"level":6,"z":44.2,"height":6.0,"width":14.6,"taper":0.65,"bays":5,"inner":6.0,"doorWidth":1.4,"doorHeight":2.7},
+    {"level":7,"z":50.2,"height":5.4,"width":12.5,"taper":0.6,"bays":5,"inner":5.4,"doorWidth":1.3,"doorHeight":2.55}
+  ],
+  "crown": {"z":55.6,"height":4.5,"width":12.6,"topWidth":3.2},
+  "finial": {"z":60.1,"height":4.6},
+  "evidence": {"floorCount":"A: multiple public sources", "overallDimensions":"B: public reference dimensions, not measured", "floorDimensions":"C: photograph-calibrated approximation", "interior":"C: spatial interpretation", "surfaceDamage":"C: procedural interpretation", "inscriptions":"C: simplified form, no invented text"}
+}

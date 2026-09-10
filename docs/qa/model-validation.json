@@ -1,0 +1,222 @@
+{
+  "high": {
+    "issues": {
+      "numErrors": 0,
+      "numWarnings": 0,
+      "numInfos": 1,
+      "numHints": 0,
+      "messages": [
+        {
+          "code": "UNSUPPORTED_EXTENSION",
+          "message": "Cannot validate an extension as it is not supported by the validator: 'EXT_meshopt_compression'.",
+          "severity": 2,
+          "pointer": "/extensionsUsed/0"
+        }
+      ],
+      "truncated": false
+    },
+    "decodedIssues": {
+      "numErrors": 0,
+      "numWarnings": 0,
+      "numInfos": 0,
+      "numHints": 0,
+      "messages": [],
+      "truncated": false
+    },
+    "bounds": {
+      "min": [
+        -23.126335474672572,
+        0.0015337857997210769,
+        -24.625
+      ],
+      "max": [
+        23.126335474672572,
+        64.69999694824219,
+        32.40458679199219
+      ]
+    },
+    "size": [
+      46.252670949345145,
+      64.69846316244247,
+      57.02958679199219
+    ],
+    "levels": [
+      "Floor01",
+      "Floor02",
+      "Floor03",
+      "Floor04",
+      "Floor05",
+      "Floor06",
+      "Floor07"
+    ],
+    "contract": true,
+    "badCoordinates": 0
+  },
+  "standard": {
+    "issues": {
+      "numErrors": 0,
+      "numWarnings": 0,
+      "numInfos": 6,
+      "numHints": 0,
+      "messages": [
+        {
+          "code": "UNSUPPORTED_EXTENSION",
+          "message": "Cannot validate an extension as it is not supported by the validator: 'EXT_meshopt_compression'.",
+          "severity": 2,
+          "pointer": "/extensionsUsed/0"
+        },
+        {
+          "code": "IMAGE_NPOT_DIMENSIONS",
+          "message": "Image has non-power-of-two dimensions: 1536x1536.",
+          "severity": 2,
+          "pointer": "/images/0"
+        },
+        {
+          "code": "IMAGE_NPOT_DIMENSIONS",
+          "message": "Image has non-power-of-two dimensions: 1536x1536.",
+          "severity": 2,
+          "pointer": "/images/1"
+        },
+        {
+          "code": "IMAGE_NPOT_DIMENSIONS",
+          "message": "Image has non-power-of-two dimensions: 1536x1536.",
+          "severity": 2,
+          "pointer": "/images/2"
+        },
+        {
+          "code": "IMAGE_NPOT_DIMENSIONS",
+          "message": "Image has non-power-of-two dimensions: 1536x1536.",
+          "severity": 2,
+          "pointer": "/images/3"
+        },
+        {
+          "code": "IMAGE_NPOT_DIMENSIONS",
+          "message": "Image has non-power-of-two dimensions: 1536x1536.",
+          "severity": 2,
+          "pointer": "/images/4"
+        }
+      ],
+      "truncated": false
+    },
+    "decodedIssues": {
+      "numErrors": 0,
+      "numWarnings": 0,
+      "numInfos": 5,
+      "numHints": 0,
+      "messages": [
+        {
+          "code": "IMAGE_NPOT_DIMENSIONS",
+          "message": "Image has non-power-of-two dimensions: 1536x1536.",
+          "severity": 2,
+          "pointer": "/images/0"
+        },
+        {
+          "code": "IMAGE_NPOT_DIMENSIONS",
+          "message": "Image has non-power-of-two dimensions: 1536x1536.",
+          "severity": 2,
+          "pointer": "/images/1"
+        },
+        {
+          "code": "IMAGE_NPOT_DIMENSIONS",
+          "message": "Image has non-power-of-two dimensions: 1536x1536.",
+          "severity": 2,
+          "pointer": "/images/2"
+        },
+        {
+          "code": "IMAGE_NPOT_DIMENSIONS",
+          "message": "Image has non-power-of-two dimensions: 1536x1536.",
+          "severity": 2,
+          "pointer": "/images/3"
+        },
+        {
+          "code": "IMAGE_NPOT_DIMENSIONS",
+          "message": "Image has non-power-of-two dimensions: 1536x1536.",
+          "severity": 2,
+          "pointer": "/images/4"
+        }
+      ],
+      "truncated": false
+    },
+    "bounds": {
+      "min": [
+        -23.126335474672572,
+        0.0015337857997210769,
+        -24.625
+      ],
+      "max": [
+        23.126335474672572,
+        64.69999694824219,
+        32.40458679199219
+      ]
+    },
+    "size": [
+      46.252670949345145,
+      64.69846316244247,
+      57.02958679199219
+    ],
+    "levels": [
+      "Floor01",
+      "Floor02",
+      "Floor03",
+      "Floor04",
+      "Floor05",
+      "Floor06",
+      "Floor07"
+    ],
+    "contract": true,
+    "badCoordinates": 0
+  },
+  "mobile": {
+    "issues": {
+      "numErrors": 0,
+      "numWarnings": 0,
+      "numInfos": 1,
+      "numHints": 0,
+      "messages": [
+        {
+          "code": "UNSUPPORTED_EXTENSION",
+          "message": "Cannot validate an extension as it is not supported by the validator: 'EXT_meshopt_compression'.",
+          "severity": 2,
+          "pointer": "/extensionsUsed/0"
+        }
+      ],
+      "truncated": false
+    },
+    "decodedIssues": {
+      "numErrors": 0,
+      "numWarnings": 0,
+      "numInfos": 0,
+      "numHints": 0,
+      "messages": [],
+      "truncated": false
+    },
+    "bounds": {
+      "min": [
+        -23.126335474672572,
+        0.0015337857997210769,
+        -24.625
+      ],
+      "max": [
+        23.126335474672572,
+        64.69999694824219,
+        32.40458679199219
+      ]
+    },
+    "size": [
+      46.252670949345145,
+      64.69846316244247,
+      57.02958679199219
+    ],
+    "levels": [
+      "Floor01",
+      "Floor02",
+      "Floor03",
+      "Floor04",
+      "Floor05",
+      "Floor06",
+      "Floor07"
+    ],
+    "contract": true,
+    "badCoordinates": 0
+  }
+}
