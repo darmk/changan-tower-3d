@@ -22,7 +22,7 @@
 下面的动图由项目的 Blender 源场景输出 16 帧环绕渲染合成，展示与网页发布模型对应的大雁塔建筑主体和平台构成。
 
 <video controls width="800">
-  <source src="./assets/demo.mp4" type="video/mp4">
+  <source src="./docs/20260910_163914.mp4" type="video/mp4">
   你的浏览器不支持视频播放，请直接下载：<a href="./docs/20260910_163914.mp4">demo.mp4</a>
 </video>
 
